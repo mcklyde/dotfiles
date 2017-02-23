@@ -1,2 +1,2 @@
 # dotfiles
-just for back up
+shit happens yo this is for my backup
