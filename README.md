@@ -1,2 +1,2 @@
 # dotfiles
-shit happens yo this is for my backup
+These are my dot files in case I need them!
